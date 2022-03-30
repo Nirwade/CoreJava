@@ -1,6 +1,6 @@
 package OOPS;
 
-public class EncapusulationExample {
+ public class EncapusulationExample {
 	
 	//class public.. ?//
 	
